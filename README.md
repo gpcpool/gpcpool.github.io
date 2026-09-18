@@ -2,6 +2,6 @@
 
 Production frontend for https://gpcpool.github.io/.
 
-BSC mining proxy: `0xd320D09EB05C590b6Cba94a7A9BC5a286C965D55`
+BSC mining proxy: `0x6EF76472b7308F713456FA4Eb82BeB3EcdCfAEC6`
 
 This repository contains the built static website.
